@@ -1,9 +1,9 @@
-# 🔑 Python Keylogger (For Ethical Cybersecurity Research)
+#  Python Keylogger
 
-## 📌 Overview
+##  Overview
 This Python keylogger captures and records keystrokes in real time, storing them in `keylogger.txt`. 
 
-## 🔧 Features
+##  Features
 ✔ Logs **all keystrokes** into a text file  
 ✔ **Special key handling** (Backspace, Space, Enter, Arrows, etc.)  
 ✔ **Timestamps** to track keypress history  
@@ -12,7 +12,7 @@ This Python keylogger captures and records keystrokes in real time, storing them
 
 ---
 
-### 1️⃣ **Install Dependencies**
+###  **Install Dependencies**
 Make sure Python is installed, then install `pynput`:
 ```bash
 pip install pynput
